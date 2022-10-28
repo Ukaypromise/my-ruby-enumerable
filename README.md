@@ -2,61 +2,39 @@
 
 # Project Name
 
-> Description the project.
+# Enumerable
 
+>To further learn and understand ruby, in this project we learned how to use a module inside a class. We created a class called MyList and a module called MyEnumerable. The module MyEnumerable implemented a subset of the functionality of Ruby's in-built Enumerable.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+## Live Demo
+- Demo 1: [Not Available Yet!!!]()
 
 
+## Live Video
+- Video: [Coming soon!!!]()
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+To start with this project. First clone this project. 
 
 ### Prerequisites
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+You just need a good computer and a code editor. 
 
 ## Authors
 
-👤 **Author1**
+👤 ** Promise Uka **
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Ukaypromise](https://github.com/Ukaypromise)
+- Twitter: [@PromiseUkay](https://twitter.com/PromiseUkay)
+- LinkedIn: [@promiseuka](https://www.linkedin.com/in/promiseuka/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -65,8 +43,8 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
 - etc
+
 
 ## 📝 License
 
