@@ -28,4 +28,4 @@ value.any? { |e| e == 5 }
 value.filter(&:even?)
 # => [2, 4]
 
-puts 2+2
+puts 2 + 2
